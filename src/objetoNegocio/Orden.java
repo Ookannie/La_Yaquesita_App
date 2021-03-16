@@ -2,7 +2,7 @@ package objetoNegocio;
 
 /**
  *
- * @author Brenda Bojorquez
+ * @author Brenda Bojorquez 
  */
 public class Orden {
     
